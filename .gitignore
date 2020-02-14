@@ -134,3 +134,4 @@ dmypy.json
 .pytype/
 
 *sqlite*
+*DS_Store*
