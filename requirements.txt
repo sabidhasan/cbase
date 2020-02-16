@@ -1,0 +1,4 @@
+networkx==2.2
+pysmiles==1.0.0
+Django==3.0.3
+molmass
