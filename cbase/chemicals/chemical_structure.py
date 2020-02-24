@@ -9,7 +9,7 @@ HYDROGEN = 'H'
 
 class ChemicalStructure():
   """
-    Represents a chemical structure
+    Represents a chemical structure of a SMILES formula
   """
 
   def __init__(self, smiles_string):
@@ -44,6 +44,7 @@ class ChemicalStructure():
         return True
 
     return False
+
 
   @property
   def ring_count(self):
